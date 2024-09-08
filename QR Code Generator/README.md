@@ -27,9 +27,10 @@ Open the index.html file in any web browser to see the app in action.
 ##Folder Structure
 qr-code-generator/
 │
-├── index.html       # The main HTML file for the app
-├── style.css        # Basic styling for the app
-└── README.md        # This readme file
+├── index.html       # Main entry point - contains the HTML structure for the QR Code Generator app.
+├── style.css        # Contains the CSS styles for designing the look and feel of the app.
+└── README.md        # Documentation file with project overview, installation, and usage instructions.
+
 
 ##Technologies Used
 HTML: Markup for the structure of the app.
