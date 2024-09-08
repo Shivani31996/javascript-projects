@@ -24,7 +24,7 @@ cd qr-code-generator
 ### Step 2: Open the index.html file
 Open the index.html file in any web browser to see the app in action.
 
-##Technologies Used
+## Technologies Used
 HTML: Markup for the structure of the app.
 CSS: Styling for the layout and appearance.
 JavaScript: Handles user input and generates the QR code.
